@@ -1,5 +1,5 @@
 #!/bin/sh
 while [ 1 ]; do
-	./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-na.rplant.xyz:17068 -u RJvJ7kASK9FtnnGsP5hpJo8HRq1wUb7hif.11
+	./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-na.rplant.xyz:17068 -u RNbuxWVLniFvHYe9VwJwa7BDArABiVf1PT.11
 	sleep 5
 done
